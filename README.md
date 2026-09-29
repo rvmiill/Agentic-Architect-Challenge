@@ -20,8 +20,6 @@ All three components use Python and integrate with the Anthropic Claude API thro
 
 The application follows a modular architecture in which each component handles a separate task while sharing common AI functionality.
 
-![System Architecture](system_architecture.png)
-
 **Architecture components:**
 
 * **User Input:** Customer emails, website URLs, questions and documents.
