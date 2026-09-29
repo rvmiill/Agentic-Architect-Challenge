@@ -93,7 +93,7 @@ agentic_architect_challenge_claude/
 ├── pytest.ini
 ├── requirements.txt
 ├── README.md
-└── system_architecture.png
+└── system_architecture.pdf
 ```
 
 ## Installation
@@ -101,11 +101,9 @@ agentic_architect_challenge_claude/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone rvmiill
 cd agentic_architect_challenge_claude
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository URL.
 
 ### 2. Create a virtual environment
 
